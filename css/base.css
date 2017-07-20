@@ -1,0 +1,14 @@
+body {
+  font-family: monospace;
+  background-color: navajowhite;
+}
+
+.red {
+  background-color: red;
+  height: 150px;
+}
+
+.blue {
+  background-color: blue;
+  height: 150px;
+}
